@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BookAdvanced" />
             <option value="$PROJECT_DIR$/Car" />
             <option value="$PROJECT_DIR$/Clock" />
             <option value="$PROJECT_DIR$/Point" />
